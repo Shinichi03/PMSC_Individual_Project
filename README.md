@@ -6,7 +6,7 @@ The project compares temperature-augmented ECMC with reversible and irreversible
 
 ## Notebook
 
-[Open the complete notebook](temperature_augmented_ecmc_comparison.ipynb)
+[Open the complete notebook](Baseline%20Cases/temperature_augmented_ecmc_comparison.ipynb)
 
 The notebook includes:
 
