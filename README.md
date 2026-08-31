@@ -29,11 +29,12 @@ All three methods achieved similar CDF accuracy at the final sample checkpoint.
 * pandas
 * Matplotlib
 * SciPy
+* Jupyter Notebook
 
 The required packages can be installed with:
 
 ```bash
-pip install numpy pandas matplotlib scipy
+pip install numpy pandas matplotlib scipy jupyter
 ```
 
 ## Running the Notebook
