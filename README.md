@@ -41,7 +41,7 @@ pip install numpy pandas matplotlib scipy
 Start Jupyter and run the notebook from top to bottom:
 
 ```bash
-jupyter notebook temperature_augmented_ecmc_comparison.ipynb
+jupyter notebook "Baseline Cases/temperature_augmented_ecmc_comparison.ipynb"
 ```
 
 The complete notebook is computationally expensive to rerun. Saved outputs are included so that the results can be viewed directly on GitHub.
