@@ -6,7 +6,7 @@ The project compares temperature-augmented ECMC with reversible and irreversible
 
 ## Notebook
 
-[Open the complete notebook](temperature_augmented_ecmc_comparison.ipynb)
+[Open the complete notebook](Baseline%20Cases/temperature_augmented_ecmc_comparison.ipynb)
 
 The notebook includes:
 
@@ -29,11 +29,12 @@ All three methods achieved similar CDF accuracy at the final sample checkpoint.
 * pandas
 * Matplotlib
 * SciPy
+* Jupyter Notebook
 
 The required packages can be installed with:
 
 ```bash
-pip install numpy pandas matplotlib scipy
+pip install numpy pandas matplotlib scipy jupyter
 ```
 
 ## Running the Notebook
@@ -41,7 +42,7 @@ pip install numpy pandas matplotlib scipy
 Start Jupyter and run the notebook from top to bottom:
 
 ```bash
-jupyter notebook temperature_augmented_ecmc_comparison.ipynb
+jupyter notebook "Baseline Cases/temperature_augmented_ecmc_comparison.ipynb"
 ```
 
 The complete notebook is computationally expensive to rerun. Saved outputs are included so that the results can be viewed directly on GitHub.
